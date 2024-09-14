@@ -1,2 +1,2 @@
 # in-orbit-server
-a simple backend goal manager application
+a goal manager backend application
